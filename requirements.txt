@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+joblib
+sentence-transformers
+folium
+openpyxl
+geopy
+matplotlib
+scipy
